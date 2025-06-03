@@ -24,8 +24,7 @@ BLUE2 = (0, 100, 255)
 BLACK = (0,0,0)
 
 BLOCK_SIZE = 20
-SPEED = 40000
-
+SPEED = 20
 # Флаг для ввода значения
 input_active = False
 input_text = str(SPEED)
